@@ -15,5 +15,3 @@ Fr3ddie's Fivem drift bot
 - Blå = 255
 - Cian = 65535
 - Pink = 16711935
-
-![image](https://user-images.githubusercontent.com/92995160/146426906-a67f6e02-b4d0-4a5b-bb30-013a4fd4e6b2.png)
